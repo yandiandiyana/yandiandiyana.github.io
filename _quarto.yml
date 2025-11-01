@@ -3,7 +3,7 @@ project:
   output-dir: .
 
 website:
-  title: "Yandi Andiyana | Sains • Data • Desain"
+  title: "Yandi Andiyana"
   navbar:
     background: light
     left:
@@ -17,5 +17,5 @@ website:
         href: courses.qmd
 format:
   html:
-    theme: default
+    theme: flatly
     css: styles.css
