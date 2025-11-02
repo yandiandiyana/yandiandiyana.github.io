@@ -7,12 +7,11 @@ website:
   navbar:
     background: light
     left:
-      - text: "Assalamu'alaikum"
+      - text: "السلام عليكم"
         href: index.qmd
-        id: "home-link"
       - text: "Tulisan & Bacaan"
         href: articles.qmd
-      - text: "Karya & Kerjasama"
+      - text: "Karya & Kerja Sama"
         href: projects.qmd
       - text: "Kelas & Konsultasi"
         href: courses.qmd
