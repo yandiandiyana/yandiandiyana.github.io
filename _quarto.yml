@@ -3,19 +3,20 @@ project:
   output-dir: .
 
 website:
-  title: "Yandi Andiyana"
+  title: "Yandi Andiyana S.Si., M.Si."
   navbar:
     background: light
     left:
-      - text: "Home"
+      - text: "Assalamu'alaikum"
         href: index.qmd
-      - text: "Articles"
+        id: "home-link"
+      - text: "Tulisan & Bacaan"
         href: articles.qmd
-      - text: "Projects"
+      - text: "Karya & Kerjasama"
         href: projects.qmd
-      - text: "Courses"
+      - text: "Kelas & Konsultasi"
         href: courses.qmd
 format:
   html:
-    theme: flatly
+    theme: cosmo
     css: styles.css
