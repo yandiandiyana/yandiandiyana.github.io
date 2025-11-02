@@ -65,9 +65,9 @@ a:hover {
 
 /* ================= Responsive for small screens ================= */
 @media (max-width: 600px) {
-  #home-link {
-    font-size: 0.85rem;     /* smaller on phones */
-    letter-spacing: 0px; 
+  .navbar .navbar-left #home-link {
+    font-size: 0.8rem !important;  /* force smaller */
+    letter-spacing: 0 !important;  /* remove extra spacing */
   }
 }
 
