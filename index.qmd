@@ -2,17 +2,16 @@
 title: "Home"
 ---
 
-# Hello, I'm Yandi 👋
+![](images/PP YANDI ANDIYANA 2025.jpg){width="160" style="border-radius:50%; margin-top: 1rem;"}
 
-**Science Communicator & Data Storytelling Educator**  
-I write and teach how to make knowledge clear, meaningful, and beautiful.
+### Hello, I’m Yandi 👋  
+**Writer • Trainer • Designer**
 
-## Focus Areas
-- Sains
-- Data Visualization & Communication
-- Learning Design
+I help make science meaningful, data insightful, and design beautiful.  
 
-Welcome to my website — a space for essays, projects, courses, and ongoing work.
+### Focus Areas
+- **Science:** Storytelling & Experimentation  
+- **Data:** Analysis & Visualization  
+- **Design:** Presentation & Communication  
 
-images/PP YANDI ANDIYANA 2025.jpg.jpg){width="160" style="border-radius:50%; margin-top: 1rem;"}
-
+Welcome to my website — a space for my articles, projects, courses, and ongoing work.
