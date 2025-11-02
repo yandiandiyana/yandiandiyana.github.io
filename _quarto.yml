@@ -3,7 +3,7 @@ project:
   output-dir: .
 
 website:
-  title: "Yandi Andiyana S.Si., M.Si."
+  title: "Yandi Andiyana, S.Si., M.Si."
   navbar:
     background: light
     left:
