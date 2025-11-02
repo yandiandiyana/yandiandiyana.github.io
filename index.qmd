@@ -7,7 +7,7 @@ title: "Home"
 ### Hello, I’m Yandi 👋  
 **Writer • Trainer • Designer**
 
-<p style="margin-top:0.25rem; margin-bottom:1rem;">
+<p style="margin-top:0.1rem; margin-bottom:1rem;">
 I help make science meaningful, data insightful, and design beautiful.
 </p>
 
