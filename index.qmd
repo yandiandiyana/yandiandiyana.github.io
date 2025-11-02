@@ -10,8 +10,8 @@ title: "Home"
 I help make science meaningful, data insightful, and design beautiful.  
 
 ### Focus Areas
-- **Science:** Storytelling & Experimentation  
-- **Data:** Analysis & Visualization  
-- **Design:** Presentation & Communication  
+**Science:** Storytelling & Experimentation  
+**Data:** Analysis & Visualization  
+**Design:** Presentation & Communication  
 
 Welcome to my website — a space for my articles, projects, courses, and ongoing work.
