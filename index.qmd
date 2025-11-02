@@ -3,27 +3,24 @@ title: "Home"
 ---
 
 <!-- Profile Picture -->
-![](images/PP YANDI ANDIYANA 2025.jpg){width="160" style="border-radius:50%; margin-top:1rem; margin-bottom:1rem;"}
+<img src="images/PP YANDI ANDIYANA 2025.jpg" width="160" style="border-radius:50%; margin:0 0 0.5rem 0;" alt="Yandi Andiyana">
 
 <!-- Intro Section -->
-### Hello, I’m Yandi 👋  
-**Writer • Trainer • Designer**
-
-<p style="margin-top:0.25rem; margin-bottom:0.5rem;">
-I help make science meaningful, data insightful, and design beautiful.
-</p>
+<h3 style="margin:0 0 0.25rem 0;">Hello, I’m Yandi 👋</h3>
+<p style="margin:0 0 0.25rem 0;"><strong>Writer • Trainer • Designer</strong></p>
+<p style="margin:0 0 0.5rem 0;">I help make science meaningful, data insightful, and design beautiful.</p>
 
 <!-- Focus Areas Section -->
-### My Focus Areas
-<p style="margin-top:0.25rem; margin-bottom:0.5rem;">
-**Science:** Research & Experimentation<br>
-**Data:** Stat. Analysis & Visualization<br>
-**Design:** Storytelling & Presentation
+<h3 style="margin:0.5rem 0 0.25rem 0;">My Focus Areas</h3>
+<p style="margin:0 0 0.5rem 0;">
+<strong>Science:</strong> Research & Experimentation<br>
+<strong>Data:</strong> Stat. Analysis & Visualization<br>
+<strong>Design:</strong> Storytelling & Presentation
 </p>
 
 <!-- Social Media / Connect With Me -->
-### Connect with me
-<div style="display:flex; justify-content:flex-start; gap:10px; margin-top:0.25rem; margin-bottom:1rem; align-items:center;">
+<h3 style="margin:0.5rem 0 0.25rem 0;">Connect with me</h3>
+<div style="display:flex; justify-content:flex-start; gap:10px; margin-top:0; margin-bottom:1rem; align-items:center;">
   <!-- X / Twitter -->
   <a href="https://x.com/yandiandiyana" target="_blank">
     <img src="images/icons8-x-50.png" width="32" alt="X">
