@@ -2,21 +2,24 @@
 title: "Home"
 ---
 
-![](images/PP YANDI ANDIYANA 2025.jpg){width="160" style="border-radius:50%; margin-top: 1rem;"}
+![](images/PP YANDI ANDIYANA 2025.jpg){width="160" style="border-radius:50%; margin-top:1rem; margin-bottom:1rem;"}
 
 ### Hello, I’m Yandi 👋  
 **Writer • Trainer • Designer**
 
-I help make science meaningful, data insightful, and design beautiful.  
+<p style="margin-top:0.25rem; margin-bottom:1rem;">
+I help make science meaningful, data insightful, and design beautiful.
+</p>
 
 ### My Focus Areas
+<p style="margin-top:0.25rem; margin-bottom:0.5rem;">
 **Science:** Research & Experimentation  
 **Data:** Stat. Analysis & Visualization  
 **Design:** Storytelling & Presentation  
+</p>
 
 ### Connect with me
-
-<div style="display:flex; justify-content:flex-start; gap:10px; margin-top:0.5rem; margin-bottom:1rem; align-items:center;">
+<div style="display:flex; justify-content:flex-start; gap:10px; margin-top:0.25rem; margin-bottom:1rem; align-items:center;">
   <!-- X / Twitter -->
   <a href="https://x.com/yandiandiyana" target="_blank">
     <img src="images/icons8-x-50.png" width="32" alt="X">
