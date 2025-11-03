@@ -44,6 +44,6 @@ I help make scientific research meaningful, data visualization insightful, and p
 </div>
 
 <!-- Footer -->
-<p style="font-size:0.8rem; color:gray; font-style:italic; margin-top:0.5rem; text-align:center;">
+<p style="font-size:0.75rem; color:gray; font-style:italic; margin-top:0.1rem; text-align:center;">
 Science Writer • Dataviz Specialist • Presentation Designer
 </p>
