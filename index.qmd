@@ -9,7 +9,7 @@ title: "السلام عليكم"
 <h3 style="margin:0 0 0.5rem 0;">Hello, I’m Yandi 👋</h3>
 <p style="margin:0 0 0.5rem 0;"><strong>Science Writer • Dataviz Specialist • Presentation Designer</strong></p>
 <p style="margin:0 0 1rem 0;">
-I help make scientific research meaningful, statistical data insightful, and presentation design beautiful.
+I help make scientific research meaningful, data visualization insightful, and presentation design impactful.
 </p>
 
 <!-- Focus Areas Section -->
