@@ -49,7 +49,7 @@ I help make scientific research <strong>meaningful</strong>, data visualization 
 <!-- Note with subtle lines -->
 <hr style="border:0; border-top:1px solid #ddd; margin:0 0 0.25rem 0;">
 
-<h4 style="margin:0; font-weight:normal; color:gray; font-size:0.7rem; line-height:1.1; text-align:center;">
+<h4 style="margin:0; font-weight:normal; color:gray; font-size:0.69rem; line-height:1.1; text-align:center;">
 Science Writer ✨ Dataviz Specialist ✨ Presentation Designer
 </h4>
 
