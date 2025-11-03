@@ -6,12 +6,9 @@ title: "السلام عليكم"
 <img src="images/PP YANDI ANDIYANA 2025.jpg" width="160" style="border-radius:50%; margin:0 0 1rem 0;" alt="Yandi Andiyana">
 
 <!-- Intro Section -->
-<h3 style="margin:0 0 0.5rem 0;">Hello, I’m Yandi </h3>
-<h4 style="margin:0 0 0 0; font-weight:normal; color:gray; font-style:italic; font-size:0.75rem;">
-Science Writer • Dataviz Specialist • Presentation Designer
-</h4>
+<h3 style="margin:0 0 0.5rem 0;">Hello, I’m Yandi✨ </h3>
 <p style="margin:0 0 1rem 0;">
-I help make scientific research meaningful, data visualization insightful, and presentation design impactful.
+I help make scientific research <strong>meaningful</strong>, data visualization <strong>insightful</strong>, and presentation design <strong>impactful</strong>.
 </p>
 
 <!-- Focus Areas Section -->
@@ -24,7 +21,7 @@ I help make scientific research meaningful, data visualization insightful, and p
 
 <!-- Social Media / Connect With Me -->
 <h3 style="margin:1rem 0 0.5rem 0;">Connect with me</h3>
-<div style="display:flex; justify-content:flex-start; gap:15px; margin-top:0; margin-bottom:1.5rem; align-items:center;">
+<div style="display:flex; justify-content:flex-start; gap:15px; margin:0; align-items:center;">
 
   <!-- Facebook -->
   <a href="fb://profile/yandiandiyana" target="_blank">
@@ -45,3 +42,9 @@ I help make scientific research meaningful, data visualization insightful, and p
   <a href="https://wa.me/6288210126348" target="_blank">
     <img src="images/icons8-whatsapp-50.png" width="32" alt="WhatsApp">
   </a>
+</div>
+
+<!-- Note under the icons -->
+<h4 style="margin:0; font-weight:normal; color:gray; font-style:italic; font-size:0.75rem; line-height:1.1;">
+Science Writer ✨ Dataviz Specialist ✨ Presentation Designer
+</h4>
