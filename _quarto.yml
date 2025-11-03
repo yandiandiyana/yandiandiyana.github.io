@@ -9,12 +9,13 @@ website:
     left:
       - text: "السلام عليكم"
         href: index.qmd
-      - text: "Tulisan & Bacaan"
-        href: articles.qmd
-      - text: "Karya & Kerja Sama"
-        href: projects.qmd
-      - text: "Kelas & Konsultasi"
-        href: courses.qmd
+        id: home-link
+      - text: "Karya"
+        href: karya.qmd
+      - text: "Kelas"
+        href: kelas.qmd
+      - text: "Kolaborasi"
+        href: kolaborasi.qmd
 format:
   html:
     theme: cosmo
