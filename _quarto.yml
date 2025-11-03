@@ -12,10 +12,10 @@ website:
         id: home-link
       - text: "Projects"
         href: projects.qmd
-      - text: "Class"
+      - text: "Classes"
         href: class.qmd
-      - text: "Collaboration"
-        href: collaboration.qmd
+      - text: "Collaborations"
+        href: collaborations.qmd
 format:
   html:
     theme: cosmo

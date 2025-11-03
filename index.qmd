@@ -6,7 +6,9 @@ title: "السلام عليكم"
 <img src="images/PP YANDI ANDIYANA 2025.jpg" width="160" style="border-radius:50%; margin:0 0 1rem 0;" alt="Yandi Andiyana">
 
 <!-- Intro Section -->
-<h3 style="margin:0 0 0.5rem 0;">Hello, I’m Yandi✨ </h3>
+<h3 style="margin:0 0 0.5rem 0;">
+  Hello, I’m Yandi<sup style="font-size:0.8em;">✨</sup>
+</h3>
 <p style="margin:0 0 1rem 0;">
 I help make scientific research <strong>meaningful</strong>, data visualization <strong>insightful</strong>, and presentation design <strong>impactful</strong>.
 </p>
@@ -44,7 +46,12 @@ I help make scientific research <strong>meaningful</strong>, data visualization 
   </a>
 </div>
 
-<!-- Note under the icons -->
-<h4 style="margin:0; font-weight:normal; color:gray; font-style:italic; font-size:0.75rem; line-height:1.1;">
+<!-- Note with subtle lines -->
+<hr style="border:0; border-top:1px solid #ddd; margin:0 0 0.25rem 0;">
+
+<h4 style="margin:0; font-weight:normal; color:gray; font-style:italic; font-size:0.65rem; line-height:1.1; text-align:center;">
 Science Writer ✨ Dataviz Specialist ✨ Presentation Designer
 </h4>
+
+<hr style="border:0; border-top:1px solid #ddd; margin:0.25rem 0 0 0;">
+
