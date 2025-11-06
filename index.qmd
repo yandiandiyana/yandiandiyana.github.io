@@ -10,7 +10,7 @@ title: "السلام عليكم"
   Hello, I’m Yandi<sup style="font-size:0.8em;">✨</sup>
 </h3>
 <p style="margin:0 0 1rem 0;">
-I help make scientific research meaningful, data visualization insightful, and presentation design impactful.
+I write, teach, and help make scientific research meaningful, data visualization insightful, and presentation design impactful.
 </p>
 
 <!-- Focus Areas Section -->
@@ -45,13 +45,3 @@ Presentation Design & Islamic Visual Arts
     <img src="images/icons8-whatsapp-50.png" width="32" alt="WhatsApp">
   </a>
 </div>
-
-<!-- Note with subtle lines -->
-<hr style="border:0; border-top:1px solid #ddd; margin:0 0 0.25rem 0;">
-
-<h4 style="margin:0; font-weight:normal; color:gray; font-size:0.69rem; line-height:1.1; text-align:center;">
-Science Writer ✨ Dataviz Specialist ✨ Presentation Designer
-</h4>
-
-<hr style="border:0; border-top:1px solid #ddd; margin:0.25rem 0 0 0;">
-
