@@ -1,2 +1,16 @@
-# Collaborations
-Content coming soon.
+---
+title: "Collaborations with Elsevier and IPB Press"
+format: html
+---
+
+This collaboration began with a simple idea — to help students in food science and technology understand statistics better. When I was a lecturer, I often saw how students struggled with statistics. I wanted to make it easier and more relevant to their future work in the food industry.  
+
+Between 2017 and 2020, I discovered the book *Statistics for Food Scientists: Making Sense of the Numbers* by Frank Rossi and Viktor Mirtchev, published by Academic Press (Elsevier). I felt it was exactly the kind of book that could bridge the gap between theory and practice. Years later, I reached out to **Elsevier** to request permission to translate and adapt it into Bahasa Indonesia.  
+
+After several months of communication, Elsevier kindly granted permission for translation and adaptation. To publish it locally, I partnered with **IPB Press**, a reputable academic publisher in Indonesia. Together, we developed the Indonesian edition titled *Statistika untuk Mahasiswa Sains dan Teknologi: Simulasi Magang di R&D Industri Pangan*.  
+
+This adaptation is more than just a translation. It was designed to fit the Indonesian learning context — combining academic rigor with practical insight from industry. I also invited professors, industry leaders, and education figures to contribute testimonials and reflections on the importance of statistical literacy for students.  
+
+In 2025, the book was officially published and is now available on the [IPB Press website](https://ipbpress.com/product/1827-statistika-untuk-mahasiswa-sains-dan-teknologi-:-simulasi-magang-di-r&d-industri-pangan).  
+
+This project has been a meaningful journey for me — combining my passion for education, science communication, and collaboration. It reminded me why I started [foodsaintika](https://www.instagram.com/foodsaintika): to make scientific knowledge more accessible and inspiring for future food scientists.
