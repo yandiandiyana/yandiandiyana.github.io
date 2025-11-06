@@ -2,6 +2,8 @@
 title: "Online Training - Collaboration with IPB Training"
 ---
 
+![](images/Poster IPB Training.jpg){fig-align="center" width="300px"}
+
 In 2025, I had the opportunity to collaborate with [*IPB Training*](https://www.instagram.com/ipb.training/), who invited me — as the translator of the book Statistika untuk Mahasiswa Sains dan Teknologi: Simulasi Magang di R&D Industri Pangan — to lead a one-day workshop using the book as the main material.
 
 The workshop, titled "Simulasi Menjadi Food Scientist: Praktik Analisis Data dan Desain Eksperimen di R&D Industri Pangan", was held on Saturday, 2 August 2025.
