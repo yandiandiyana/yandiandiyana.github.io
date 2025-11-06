@@ -13,7 +13,7 @@ website:
       - text: "Projects"
         href: projects.qmd
       - text: "Classes"
-        href: class.qmd
+        href: classes.qmd
       - text: "Collaborations"
         href: collaborations.qmd
 format:
