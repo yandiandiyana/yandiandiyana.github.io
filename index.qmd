@@ -45,3 +45,12 @@ Presentation Design & Islamic Visual Arts
     <img src="images/icons8-whatsapp-50.png" width="32" alt="WhatsApp">
   </a>
 </div>
+
+<!-- Note with subtle lines -->
+<hr style="border:0; border-top:1px solid #ddd; margin:0 0 0.25rem 0;">
+
+<h4 style="margin:0; font-weight:normal; color:gray; font-size:0.69rem; line-height:1.1; text-align:center;">
+  Yandi Andiyana S.Si., M.Si. | Writer ✨ Trainer ✨ Designer
+</h4>
+
+<hr style="border:0; border-top:1px solid #ddd; margin:0.25rem 0 0 0;">
