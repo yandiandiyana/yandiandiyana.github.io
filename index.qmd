@@ -10,15 +10,16 @@ title: "السلام عليكم"
   Hello, I’m Yandi<sup style="font-size:0.8em;">✨</sup>
 </h3>
 <p style="margin:0 0 1rem 0;">
-I write, teach, and design in the worlds of science, business, data, food and Islam.
+I write, teach, and design in the worlds of science, data, design,art, and Islam.
 </p>
 
 <!-- Focus Areas Section -->
 <h3 style="margin:1rem 0 0.5rem 0;">My Focus Areas </h3>
 <p style="margin:0 0 1rem 0;">
-Science Journalism & Business Analytics<br>
 Data Visualization & Presentation Design<br>
-Food Sci.Tech.Eng. & Islamic Visual Arts
+‎Scientific Research & Science Journalism<br>
+‎Statistical Analysis & Business Analytics<br>
+‎Islamic Visual Arts & Muslim Lifestyle
 </p>
 
 <!-- Social Media / Connect With Me -->
