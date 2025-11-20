@@ -10,7 +10,7 @@ title: "السلام عليكم"
   Hello, I’m Yandi<sup style="font-size:0.8em;">✨</sup>
 </h3>
 <p style="margin:0 0 1rem 0;">
-I write, teach, and share my books, courses, and projects about science/business, data/statistics, and art/design.
+I write, teach, and share my books, courses, and client projects about science/business, data/statistics, and art/design.
 </p>
 
 <!-- Focus Areas Section -->
