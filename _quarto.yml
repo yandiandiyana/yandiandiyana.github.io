@@ -10,12 +10,12 @@ website:
       - text: "السلام عليكم"
         href: index.qmd
         id: home-link
+      - text: "Blog"
+        href: blog/index.qmd
+      - text: "Courses"
+        href: courses.qmd
       - text: "Projects"
         href: projects.qmd
-      - text: "Classes"
-        href: classes.qmd
-      - text: "Collaborations"
-        href: collaborations.qmd
 format:
   html:
     theme: cosmo
