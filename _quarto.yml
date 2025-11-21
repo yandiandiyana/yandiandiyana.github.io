@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: .
+  output-dir: _site
 
 website:
   title: "Yandi Andiyana, S.Si., M.Si."
